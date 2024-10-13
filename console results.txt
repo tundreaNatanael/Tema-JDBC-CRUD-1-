@@ -1,0 +1,11 @@
+CRUD on users
+INSERT: 1
+UPDATE: 1 rows affected
+11 Nae (inactive - 2024-10-13T14:55:09.249960): pro (2024-10-13T14:55:09.250973, Revolut)
+1 rows affected
+
+CRUD on payment_methods
+INSERT: 1
+UPDATE: 1 rows affected
+Revolut is used by 4 (d20hr20br2d20)
+1 rows affected
